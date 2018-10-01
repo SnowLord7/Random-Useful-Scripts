@@ -1,11 +1,11 @@
 {
-    bans: [
+    "bans": [
         {
-            user: "Account3888",
-            reason: "Testing, sorry testing account ):"
+            "user": "Account3888",
+            "reason": "Testing, sorry testing account ):"
         }, {
-            user: "Mon_Sosothikul",
-            reason: "kohar.exe spammed me to do this -_-"
+            "user": "Mon_Sosothikul",
+            "reason": "kohar.exe spammed me to do this -_-"
         }
     ]
 }
