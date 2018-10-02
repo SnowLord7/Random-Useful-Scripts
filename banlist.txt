@@ -1,11 +1,11 @@
 {
     "bans": [
         {
-            "user": "Account3888",
-            "reason": "Testing, sorry testing account ):"
+            "user": "quizletsupport",
+            "reason": "Sorry quizletsupport, I don't know why I 'banned' you lol"
         }, {
-            "user": "Mon_Sosothikul",
-            "reason": "kohar.exe spammed me to do this -_-"
+            "user": "majesticmon998",
+            "reason": "kohar.exe spammed me to ban you, I see no reason to but I hate spam. If you want, DM me on discord (Drew Snow#1286) to be unbanned lol"
         }
     ]
 }
