@@ -2,10 +2,10 @@
     "bans": [
         {
             "user": "quizletsupport",
-            "reason": "Sorry quizletsupport, I don't know why I 'banned' you lol"
+            "reason": "Placeholder ban, RIP Quizlet 2018"
         }, {
-            "user": "majesticmon998",
-            "reason": "kohar.exe spammed me to ban you, I see no reason to but I hate spam. If you want, DM me on discord (Drew Snow#1286) to be unbanned lol"
+            "user": "quizlet",
+            "reason": "Placeholder ban, RIP Quizlet 2018"
         }
     ]
 }
