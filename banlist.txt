@@ -6,6 +6,9 @@
         }, {
             "user": "quizlet",
             "reason": "Placeholder ban, RIP Quizlet 2018"
+        }, {
+            "user": "DeLaRosa_Kenta",
+            "reason": "Beating me in school lol"
         }
     ]
 }
