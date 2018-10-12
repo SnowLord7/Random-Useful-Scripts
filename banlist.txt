@@ -8,7 +8,10 @@
             "reason": "Placeholder ban, RIP Quizlet 2018"
         }, {
             "user": "DeLaRosa_Kenta",
-            "reason": "Beating me in school lol"
+            "reason": "Dont cheat to beat me with my own extension..."
+        }, {
+            "user": "Andrew_Youn340364",
+            "reason": "Dont cheat to beat me with my own extension..."
         }
     ]
 }
