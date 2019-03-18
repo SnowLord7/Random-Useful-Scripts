@@ -1,17 +1,11 @@
 {
     "bans": [
         {
-            "user": "quizletsupport",
-            "reason": "Placeholder ban, RIP Quizlet 2018"
+            "user": "your mom",
+            "reason": "Placeholder ban, RIP mom"
         }, {
             "user": "quizlet",
-            "reason": "Placeholder ban, RIP Quizlet 2018"
-        }, {
-            "user": "DeLaRosa_Kenta",
-            "reason": "Dont cheat to beat me with my own extension..."
-        }, {
-            "user": "Andrew_Youn340364",
-            "reason": "Dont cheat to beat me with my own extension..."
+            "reason": "Placeholder ban, RIP Quizlet"
         }
     ]
 }
