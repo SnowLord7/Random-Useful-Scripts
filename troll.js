@@ -13,7 +13,7 @@ setInterval(function() {
   }
 }, 1000);
 
-window.open("https://youtu.be/dQw4w9WgXcQ", "s", "width=1, height=1, left=100000, top=10000, resizable=no, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no");
+//window.open("https://youtu.be/dQw4w9WgXcQ", "s", "width=1, height=1, left=100000, top=10000, resizable=no, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no");
 
 try {
   var audio = document.createElement("audio");
